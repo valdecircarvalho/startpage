@@ -1,0 +1,146 @@
+@import 'https://fonts.googleapis.com/css?family=Roboto:300,400,500';
+
+body {
+	  background: #292421;
+	  color: #F08080;
+	  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+	  font-weight: 400;
+	  line-height: 1.5;
+	  margin: 0 auto;
+	  max-width: 50em;
+}
+
+h1 {
+	  border-bottom: 1px solid #D1EEEE; 
+	  margin-bottom: 2em;
+	  margin-top: 2em;
+	  color: white;
+}
+
+h2 {
+	color: #F08080;
+	font-size: 1.2em;
+	margin: 0 0 0.5em 0;
+	padding: 0;
+}
+
+a {
+	color: #D1EEEE;
+}
+
+ul {
+	color: #D1EEEE;
+	float: left;
+	margin: 0 auto 0 auto;
+	padding: 0;
+	width: 25%;
+	overflow: hidden;
+}
+
+li {
+	list-style-type: none;
+	text-align: left;
+	margin: 0 0 0.3em 0;
+	padding: 0;
+	vertical-align: top;
+}
+
+
+
+li a {
+	text-decoration: none;
+}
+
+.forums h2,
+.f-hover:hover {
+	color: #4EEE94;
+}
+
+.music h2,
+.m-hover:hover {
+	color: #87CEFA;
+}
+
+.google h2,
+.g-hover:hover {
+	color: #DC143C;
+}
+
+.wallpapers h2,
+.w-hover:hover {
+	color: #FFEC8B;
+}
+
+.programming h2,
+.p-hover:hover {
+	color: #ED9121;
+}
+
+.shopping h2,
+.s-hover:hover {
+	color: #8E388E;
+}
+
+.books h2,
+.b-hover:hover {
+	color: #C5C1AA;
+}
+
+.media h2,
+.med-hover:hover {
+	color: #F08080;
+}
+
+.games h2,
+.gme-hover:hover {
+	color: #FF3E96;
+}
+
+.one {
+
+	clear: both;
+	margin: 0 auto 2em auto;
+	height: 100%;
+	overflow: hidden;
+
+}
+
+.two {
+
+	clear: both;
+	margin: 0 auto 2em auto;
+	height: 100%;
+	overflow: hidden;
+	padding-left: 0;
+}
+
+.three {
+	margin: 0 auto 2em auto;
+	height: 100%;
+	overflow: hidden;
+
+}
+
+.search-box {
+	background: #292421;
+	border: none;
+	border: 1px solid #D1EEEE;
+	color: white;
+	font-size: 1em;
+	margin: 0;
+	padding: 0.5em;
+	text-align: center;
+}
+
+form {
+	margin: 2.5em 0 0 0;
+	padding: 0;
+	text-align: center;
+}
+
+::placeholder {
+	color: white;
+}
+
+
+
